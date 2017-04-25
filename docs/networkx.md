@@ -50,6 +50,6 @@ pylab.savefig("create_graph.png")
 pylab.show()
 ```
 
-ここまでのコードは[create_graph.py](src/create_graph.py)にまとめています。
+ここまでのコードは[create_graph.py](../src/create_graph.py)にまとめています。
 
 NetworkXの[サンプル集](https://networkx.readthedocs.io/en/stable/examples/)を参考にしながら、何か作ってみましょう
