@@ -16,10 +16,14 @@ Pythonの基礎知識
 
 ## 標準出力
 
-標準出力は```print()```を使う。
+標準出力は```print```を使う。
 
 ```py
-print("Hello World!!")
+print 'Hello World!!'
+
+a = 3
+print 'a = ', a # a = 3 と表示される
+print 'a = ' + str(a) # 同じくa = 3と表示される. aを文字列にキャストしている
 ```
 
 ## データ型、宣言、代入
