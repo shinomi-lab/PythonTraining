@@ -77,7 +77,7 @@ $ easy_install pip
 $ pip install networkx
 ```
 
-これでMacのインストールは完了です。ページ下部にある動作確認へ。
+これでMacでのインストールは完了です。ページ下部にある動作確認へ。
 
 参考サイト：https://qiita.com/spyc/items/73d1295f8b3dde3b49ca
 
@@ -97,7 +97,7 @@ $ python --version
 $ conda install networkx
 ```
 
-これでWindowsのインストールは完了です。ページ下部にある動作確認へ。
+これでWindowsでのインストールは完了です。ページ下部にある動作確認へ。
 
 ## 動作確認
 動作確認のために簡単なグラフを作成して表示してみます。
